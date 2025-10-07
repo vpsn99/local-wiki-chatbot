@@ -1,0 +1,14 @@
+# Core dependencies
+gradio==4.44.0
+chromadb==0.4.24
+sentence-transformers==2.7.0
+wikipedia-api==0.6.0
+PyPDF2==3.0.1
+docx2txt==0.8
+langchain==0.1.16
+langchain-community==0.0.34
+
+# Utilities
+requests==2.32.4
+numpy==1.26.4
+tqdm==4.66.5
